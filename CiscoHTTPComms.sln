@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CiscoHTTPComms", "CiscoHTTPComms.csproj", "{8E11C425-29CC-4EBE-B4FC-A4C1293CC871}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E11C425-29CC-4EBE-B4FC-A4C1293CC871}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E11C425-29CC-4EBE-B4FC-A4C1293CC871}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E11C425-29CC-4EBE-B4FC-A4C1293CC871}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E11C425-29CC-4EBE-B4FC-A4C1293CC871}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A5538A6-DBAC-4CCC-93A3-FAC6F5C9BBD3}
+	EndGlobalSection
+EndGlobal
